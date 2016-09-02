@@ -12,29 +12,29 @@
   position:absolute;
   z-index:0;
 }
-#u861_img {
+#u863_img {
   position:absolute;
   left:0px;
   top:0px;
   width:1000px;
-  height:604px;
+  height:577px;
 }
-#u861 {
+#u863 {
   position:absolute;
   left:0px;
-  top:0px;
+  top:2px;
   width:1000px;
-  height:604px;
+  height:577px;
 }
-#u862 {
+#u864 {
   position:absolute;
   left:2px;
-  top:294px;
+  top:280px;
   width:996px;
   visibility:hidden;
   word-wrap:break-word;
 }
-#u863_div {
+#u865_div {
   position:absolute;
   left:0px;
   top:0px;
@@ -48,15 +48,15 @@
   -webkit-box-shadow:none;
   box-shadow:none;
 }
-#u863 {
+#u865 {
   position:absolute;
   left:0px;
   top:122px;
   width:1000px;
   height:329px;
-  opacity:0.7;
+  opacity:0.6;
 }
-#u864 {
+#u866 {
   position:absolute;
   left:2px;
   top:156px;
@@ -64,52 +64,12 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-#u865_div {
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:289px;
-  height:50px;
-  background:inherit;
-  background-color:rgba(255, 255, 255, 0);
-  border:none;
-  border-radius:0px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
-  font-family:'ArialMT', 'Arial';
-  font-weight:400;
-  font-style:normal;
-  font-size:36px;
-  color:#FFFFFF;
-  text-align:center;
-}
-#u865 {
-  position:absolute;
-  left:356px;
-  top:173px;
-  width:289px;
-  height:50px;
-  font-family:'ArialMT', 'Arial';
-  font-weight:400;
-  font-style:normal;
-  font-size:36px;
-  color:#FFFFFF;
-  text-align:center;
-}
-#u866 {
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:289px;
-  white-space:nowrap;
-}
 #u867_div {
   position:absolute;
   left:0px;
   top:0px;
-  width:209px;
-  height:82px;
+  width:385px;
+  height:67px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -120,20 +80,20 @@
   font-family:'ArialMT', 'Arial';
   font-weight:400;
   font-style:normal;
-  font-size:72px;
+  font-size:48px;
   color:#FFFFFF;
   text-align:center;
 }
 #u867 {
   position:absolute;
-  left:396px;
-  top:275px;
-  width:209px;
-  height:82px;
+  left:308px;
+  top:146px;
+  width:385px;
+  height:67px;
   font-family:'ArialMT', 'Arial';
   font-weight:400;
   font-style:normal;
-  font-size:72px;
+  font-size:48px;
   color:#FFFFFF;
   text-align:center;
 }
@@ -141,7 +101,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:209px;
+  width:385px;
   white-space:nowrap;
 }
 #u869_div {
@@ -166,7 +126,7 @@
 #u869 {
   position:absolute;
   left:326px;
-  top:398px;
+  top:415px;
   width:350px;
   height:25px;
   font-family:'PingFangSC-Regular', 'PingFang SC';
@@ -226,7 +186,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:216px;
+  width:221px;
   height:40px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -244,9 +204,9 @@
 }
 #u873 {
   position:absolute;
-  left:395px;
+  left:390px;
   top:223px;
-  width:216px;
+  width:221px;
   height:40px;
   font-family:'PingFangSC-Regular', 'PingFang SC';
   font-weight:400;
@@ -259,6 +219,44 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:216px;
+  width:221px;
+  white-space:nowrap;
+}
+#u875_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:90px;
+  height:85px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'.AppleSystemUIFont-RegularG3', '.AppleSystemUIFont G3', '.AppleSystemUIFont';
+  font-weight:400;
+  font-style:normal;
+  font-size:72px;
+  color:#FFFFFF;
+}
+#u875 {
+  position:absolute;
+  left:456px;
+  top:273px;
+  width:90px;
+  height:85px;
+  font-family:'.AppleSystemUIFont-RegularG3', '.AppleSystemUIFont G3', '.AppleSystemUIFont';
+  font-weight:400;
+  font-style:normal;
+  font-size:72px;
+  color:#FFFFFF;
+}
+#u876 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:90px;
   white-space:nowrap;
 }
